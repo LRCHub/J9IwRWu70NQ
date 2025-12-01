@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【GhostFinal】LAMIA「Punishing: Gray Raven OST - 绝海星火/ラストスパーク」  【パニシング:グレイレイヴン】Official",
+  "base_artist": "Vanguard Sound",
+  "createdAt": "2025-12-01T17:03:13.734055Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lamia ～VIVACE Ver.～",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_01_Lamia_~VIVACE_Ver.~_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "La mia vita",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_02_La_mia_vita_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "La mia voce (Versione per Soundtrack)",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_03_La_mia_voce_(Versione_per_Soundtrack)_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "La mia donna",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_04_La_mia_donna_北出_菜奈.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "La Mia Mente",
+      "artist": "北出 菜奈",
+      "has_synced": false,
+      "path": "select/pl_05_La_Mia_Mente_北出_菜奈.txt"
+    }
+  ]
+}
